@@ -1,4 +1,4 @@
-# Madhav-E-commerce-sale-dashboard Using Power Bi
+# Madhav-E-commerce-sales-dashboard Using Power Bi
 # Objective:
 The project focuses on creating an interactive Madhav Ecommerce Sales Dashboard using Power BI to analyze and visualize Madhav Store's online sales data across India.
 # preview
